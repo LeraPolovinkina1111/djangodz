@@ -1,0 +1,2 @@
+INFO 2024-02-24 19:06:21,277 autoreload 636 6464Watching for file changes with StatReloader
+INFO 2024-02-24 19:06:22,609 basehttp 636 11072"GET / HTTP/1.1" 200 310
